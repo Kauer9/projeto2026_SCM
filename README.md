@@ -1,0 +1,1 @@
+# projeto2026_SCM
