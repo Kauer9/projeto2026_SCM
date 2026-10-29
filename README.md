@@ -4,4 +4,4 @@
 Projeto acadêmico para praticar controle de versão com Git e GitHub.
 
 ## Equipe
-- Seu Nome: Desenvolvedor
+- Seu Nome: Kaue
